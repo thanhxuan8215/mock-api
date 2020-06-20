@@ -1,0 +1,12 @@
+{
+  "name": "mock-api",
+  "version": "1.0.0",
+  "description": "simple api use json server",
+  "main": "index.js",
+  "repository": "https://github.com/thanhxuan8215/mock-api.git",
+  "author": "thanhxuan8215",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
